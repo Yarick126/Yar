@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Simplex\bin\Debug\Simplex.exe.config
+C:\Users\User\source\repos\Simplex\bin\Debug\Simplex.exe
+C:\Users\User\source\repos\Simplex\bin\Debug\Simplex.pdb
+C:\Users\User\source\repos\Simplex\obj\Debug\Simplex.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Simplex\obj\Debug\Simplex.Form1.resources
+C:\Users\User\source\repos\Simplex\obj\Debug\Simplex.Properties.Resources.resources
+C:\Users\User\source\repos\Simplex\obj\Debug\Simplex.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Simplex\obj\Debug\Simplex.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Simplex\obj\Debug\Simplex.exe
+C:\Users\User\source\repos\Simplex\obj\Debug\Simplex.pdb
+C:\Users\User\source\repos\Simplex\obj\Debug\Simplex.Form2.resources

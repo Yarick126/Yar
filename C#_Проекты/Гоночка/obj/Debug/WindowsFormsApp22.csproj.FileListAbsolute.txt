@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe.config
+C:\Users\User\source\repos\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe
+C:\Users\User\source\repos\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.pdb
+C:\Users\User\source\repos\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.Form1.resources
+C:\Users\User\source\repos\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.exe
+C:\Users\User\source\repos\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.pdb
+C:\Users\User\source\repos\WindowsFormsApp22\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\WindowsFormsApp22\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\WindowsFormsApp22\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\WindowsFormsApp22\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.CopyComplete
